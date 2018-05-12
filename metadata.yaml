@@ -1,0 +1,35 @@
+_repo: A-History-of-Philosophy-in-Epitome_41412
+_version: 0.1.0
+alternative_title: Geschichte der Philosophie im Umriss. English
+contributor:
+  translator:
+    agent_name: Seelye, Julius H. (Julius Hawley)
+    alias: Seelye, J. H. (Julius Hawley)
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '41170'
+    url: http://www.gutenberg.org/2009/agents/41170
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schwegler, Albert
+    birthdate: 1819
+    deathdate: 1857
+    gutenberg_agent_id: '41169'
+    url: http://www.gutenberg.org/2009/agents/41169
+description: ''
+gutenberg_issued: '2012-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy -- History'
+- !lcc 'B'
+title: A History of Philosophy in Epitome
+url: http://www.gutenberg.org/ebooks/41412
