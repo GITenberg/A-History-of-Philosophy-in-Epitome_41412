@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '41169'
     url: http://www.gutenberg.org/2009/agents/41169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41412#A-History-of-Philosophy-in-Epitome
 gutenberg_issued: '2012-11-19'
 gutenberg_type: Text
 identifiers:
